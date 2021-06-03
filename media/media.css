@@ -1,0 +1,1404 @@
+@media(max-width:1650px) {
+
+    .header-content_descr {
+        font-size: 59px;
+    }
+}
+
+@media(max-width:1600px) {
+
+    /* .my-container{
+        max-width: 1600px;
+    } */
+    .theme-changer {
+        right: 0;
+        font-size: 20px;
+    }
+
+    .header-nav {
+        max-width: 100%;
+    }
+
+    .nav-list {
+        margin-left: 11%;
+    }
+
+    .header-content_descr {
+        font-size: 50px;
+    }
+
+    .main-content_title {
+        font-size: 40px;
+        line-height: 60px;
+    }
+
+    .booking-content_left__bg {
+        left: -165px;
+    }
+
+    .os-card_content {
+        left: 110%;
+    }
+
+    .os-title_3 span::after {
+        left: 105%;
+    }
+
+    .da-title {
+        font-size: 47px;
+        line-height: 60px;
+    }
+
+    .eof-card {
+        max-width: 500px;
+    }
+
+    .eof-card_img {
+        max-width: 100%;
+    }
+
+    .eof-card_span {
+        padding-left: 185px;
+    }
+
+}
+
+@media(max-width:1499px) {
+
+    .da-title {
+        font-size: 43px;
+        line-height: 61px;
+    }
+
+    .nav-list {
+        margin-left: 6%;
+    }
+
+    .theme-changer {
+        font-size: 18px;
+    }
+
+    .header-content_descr {
+        font-size: 50px;
+    }
+
+    .header-content_search {
+        min-width: 550px;
+    }
+
+    .search-submit {
+        font-size: 24px;
+        max-width: 170px;
+        right: -370px;
+        top: 10px;
+    }
+
+    .main-card_item {
+        position: relative;
+        max-height: 500px;
+    }
+
+    .main-card_img {
+        max-width: 500px;
+        max-height: 500px;
+    }
+
+    .main-card_border__first {
+        bottom: 500px;
+    }
+
+    .main-card_border__third {
+        bottom: -16.5%;
+    }
+
+    .booking-content_right__bg {
+        right: -25px;
+    }
+
+    .booking-content_left__bg {
+        left: -255px;
+    }
+
+    .booking-content_right__bg {
+        right: 0;
+    }
+
+    .eof-card {
+        max-width: 450px;
+    }
+
+    .eof-card_img {
+        max-width: 100%;
+    }
+
+    .eof-card_span {
+        padding-left: 145px;
+    }
+
+    .os-title_2 {
+        margin-bottom: 45px;
+        font-size: 21px;
+    }
+
+    .da-descr {
+        max-width: 450px;
+    }
+
+    .da-right_bg {
+        max-width: 900px;
+    }
+}
+
+@media(max-width: 1399px) {
+    .main-content_title {
+        font-size: 36px;
+    }
+
+    .nav-list {
+        margin-left: 3%;
+    }
+
+    .nav-logo {
+        font-size: 58px;
+    }
+
+    .header-main_title {
+        font-size: 170px;
+    }
+
+    .header-content_descr {
+        font-size: 47px;
+        line-height: 70px;
+    }
+
+    .card-item_descr {
+        line-height: 21px;
+    }
+
+    .os-title_2 {
+        margin-bottom: 40px;
+        font-size: 20px;
+    }
+
+    #osct {
+        margin-bottom: 40px;
+        width: 290px;
+
+    }
+
+    .booking-content_right__bg {
+        right: 0;
+    }
+
+    .booking-content {
+        max-width: 1150px;
+    }
+
+    .eof-card_span {
+        padding-left: 95px;
+    }
+
+    .os-img {
+        padding: 85px 75px 83px 75px;
+        max-height: 300px;
+        max-width: 300px;
+    }
+
+    .os-img_3 {
+        padding: 90px 80px;
+    }
+
+    .os-img_2 {
+        padding: 160px 140px 0 174px;
+        min-height: 610px;
+    }
+
+    .os-descr_2 {
+        max-height: 0;
+        font-size: 13px;
+    }
+
+    .os-title_2 {
+        max-height: 0;
+        max-width: 500px;
+        font-size: 16px;
+        padding-top: 0;
+        line-height: 27px;
+    }
+
+    #oscf,
+    #oscs {
+        width: 150px;
+    }
+
+    .os-card_content_3 {
+        top: 120px;
+    }
+
+    .eof-card {
+        max-width: 420px;
+    }
+
+    .da-title {
+        font-size: 40px;
+    }
+
+    .da-button {
+        margin-left: 0;
+    }
+
+    .da-right_bg {
+        max-width: 850px;
+    }
+
+    .footer-title {
+        font-size: 30px;
+    }
+
+    .carousel-lettuce_img {
+        top: -130px;
+        left: 15%;
+    }
+    .carousel-bg_1 {
+        position: absolute;
+        top: 147px;
+    }
+    .carousel-bg_2 {
+        position: absolute;
+        bottom: 233px;
+    }
+}
+
+@media(max-width: 1299px) {
+    .nav-list {
+        margin-left: 0;
+    }
+
+    .nav-list_link {
+        font-size: 14px;
+        margin-left: 30px;
+    }
+
+    .header-content_descr {
+        font-size: 42px;
+    }
+
+    .carousel-lettuce_img {
+        left: 20%;
+        width: 400px;
+        top: -110px;
+    }
+
+    .carousel-bg_1 {
+        top: 70px;
+    }
+
+    .carousel-bg_2 {
+        bottom: 270px;
+    }
+
+    .main-content_title {
+        font-size: 32px;
+        line-height: 44px;
+        max-width: 380px;
+    }
+
+    .booking-content {
+        max-width: 970px;
+        margin: 0;
+    }
+
+    .booking-content_left__bg {
+        min-height: 742px;
+        bottom: -50%;
+        left: -300px;
+    }
+
+    .booking-search {
+        min-width: 530px;
+        position: absolute;
+        left: 30%;
+    }
+
+    .booking-submit,
+    .booking-submit:hover {
+        font-size: 25px;
+        top: 15px;
+        right: -3%;
+    }
+
+    .booking-title {
+        margin-left: 220px;
+    }
+
+    .booking-select_first {
+        left: 40%;
+    }
+
+    .booking-select_second {
+        left: 65%;
+    }
+
+    .booking-select_third {
+        right: 0;
+    }
+
+    .booking-content_right__bg {
+        right: 0;
+    }
+
+    .os-title_span::before {
+        right: 105%;
+        width: 140px;
+    }
+
+    .os-title_3 span::after {
+        background-position: right;
+        width: 170px;
+    }
+
+    .card-item_descr {
+        font-size: 13px;
+    }
+
+    .eof-card {
+        max-width: 385px;
+    }
+
+    .eof-card_span {
+        padding-left: 80px;
+    }
+
+    .da-title {
+        font-size: 36px;
+    }
+
+    .da-button:nth-of-type(2) {
+        margin-left: 0;
+    }
+
+    .da-right_bg {
+        max-width: 800px;
+    }
+
+    .left-cards_container {
+        margin-bottom: 360px;
+    }
+    .carousel-bg_1 {
+        top: 145px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .nav-logo {
+        font-size: 50px;
+        margin-top: 0;
+    }
+
+    .nav-list_container {
+        display: flex;
+        justify-content: flex-end;
+        flex: 1;
+    }
+
+    .sidebar-epta_active {
+        top: 75px;
+        background: #FFEDDE99;
+    }
+
+    .sidebar-epta {
+        top: 75px;
+        background: #FFEDDE99;
+    }
+
+    .header-content {
+        margin-top: 170px;
+    }
+
+    .nav-list_link {
+        color: black;
+        margin-top: 44px;
+    }
+
+    .menu-burger {
+        margin-right: 80px;
+    }
+
+    .menu-burger_icon {
+        position: fixed;
+        filter: contrast(200%);
+
+    }
+
+    .header-nav {
+        position: fixed;
+        z-index: 1000;
+        background: #FFEDDE99;
+        top: 0;
+    }
+
+    .header-content_descr {
+        font-size: 48px;
+        max-width: 557px;
+        line-height: 50px;
+    }
+
+    .header-main_title {
+        font-size: 150px;
+    }
+
+    .header-content_right__bg {
+        min-width: 302px;
+
+    }
+
+    .nav-list {
+        display: flex;
+        position: fixed;
+    }
+
+    .header-content_search {
+        min-width: 462px;
+    }
+
+    .search-submit {
+        font-size: 22px;
+        max-width: 140px;
+        left: 310px;
+        padding: 16px 70px;
+    }
+
+    .main-content_descr {
+        margin-left: 100px;
+
+    }
+
+    .main-content_title {
+        font-size: 35px;
+        line-height: 41px;
+    }
+
+    .main-card_item {
+        max-height: 450px;
+    }
+
+    .main-card_img {
+        max-width: 450px;
+        max-height: 450px;
+    }
+
+    .main-card_border__second {
+        right: -51px;
+    }
+
+    .main-card_border__first {
+        bottom: 450px;
+    }
+
+    .carousel-bg_1,
+    .carousel-bg_2 {
+        width: 329px;
+        height: 271px;
+    }
+
+    .carousel-bg_1 {
+        top: 18px;
+    }
+
+    .carousel-bg_2 {
+        bottom: 392px;
+    }
+
+    .main-card_descr {
+       max-width: 450px;
+       width: 100%;
+        padding: 35px 100px 110px 25px;
+    }
+
+    .card-item_button {
+        padding: 17px 59px;
+    }
+
+    .main-cards_container {
+        margin-bottom: 50px;
+    }
+
+    .booking-content {
+        margin-bottom: 0;
+    }
+
+    .booking-content_left__bg {
+        left: 0;
+        bottom: 0;
+
+    }
+
+    .da-right_bg {
+        max-width: 700px;
+    }
+
+    .os-title {
+        font-size: 21px;
+    }
+
+    .os-title_3 span::after {
+        width: 110px;
+    }
+
+    .carousel-lettuce_img {
+        left: 17%;
+        width: 334px;
+        top: -76px;
+    }
+
+    .header-content {
+        margin-top: 120px;
+        flex-direction: column;
+    }
+
+    .header-main_title {
+        font-size: 127px;
+        line-height: 70px;
+        margin-bottom: 42px;
+    }
+
+    .header-content_descr {
+        font-size: 60px;
+        line-height: 84px;
+        max-width: 640px;
+    }
+
+    .header-content_left {
+        margin-bottom: 240px;
+    }
+
+    .header-content_map {
+        top: 40%;
+    }
+
+    .carousel-lettuce_img {
+        left: 15%;
+        width: 600px;
+        top: -149px;
+    }
+
+    .carousel-bg_1 {
+        width: 430px;
+        height: 354px;
+        top: 53px;
+    }
+
+    .carousel-bg_2 {
+        width: 430px;
+        height: 354px;
+        bottom: 100px;
+    }
+
+    .main-card_item {
+        position: relative;
+        max-height: 400px;
+    }
+
+    .main-card_img {
+        max-width: 400px;
+        max-height: 400px;
+    }
+
+    .main-card_descr {
+        max-width: 400px;
+        width: 100%;
+    }
+
+    .left-cards_container {
+        margin-bottom: 360px;
+    }
+
+    .os-card_2 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .os-img {
+        max-width: 390px;
+        max-height: 380px;
+        padding: 91px 95px 90px 96px;
+        margin-bottom: 20px;
+    }
+
+    .os-img_3 {
+        padding: 90px 80px;
+    }
+
+    .os-img_2 {
+        padding: 160px 140px 0 174px;
+        min-height: 610px;
+    }
+
+    .os-descr_2 {
+        max-height: 0;
+        font-size: 13px;
+    }
+
+    .os-title_2 {
+        max-height: 0;
+        max-width: 500px;
+        font-size: 16px;
+        padding-top: 0;
+        line-height: 27px;
+    }
+
+    #oscf,
+    #oscs {
+        width: 190px;
+    }
+
+    .os-card_content {
+        left: 100%;
+    }
+
+    .os-card_content_3 {
+        top: 120px;
+        left: 150px;
+    }
+
+    .os-title_span::before {
+        width: 184px;
+    }
+
+    .os-title_2 {
+        font-size: 30px;
+        line-height: 32% 0ex;
+    }
+
+    .os-title_3 span::after {
+        width: 268px;
+    }
+
+    .eof-card {
+        max-width: 320px;
+    }
+
+    .eof-card_span {
+        padding-left: 16px;
+        font-size: 21px;
+    }
+
+    .eof-card_title {
+        font-size: 21px;
+    }
+
+    .eof-card_descr {
+        max-width: 290px;
+    }
+
+    .da-right_bg {
+        max-width: 578px;
+    }
+
+    .carousel-img {
+        position: absolute;
+        z-index: 2;
+        max-height: 70%;
+        max-width: 70%;
+    }
+
+    .carousel-lettuce_img {
+        left: 14%;
+        width: 380px;
+        top: -110px;
+    }
+
+    .carousel-bg_1 {
+        width: 350px;
+        height: 300px;
+        top: 0;
+    }
+
+    .carousel-bg_2 {
+        width: 350px;
+        height: 300px;
+        bottom: 40%;
+    }
+
+    .header-carousel_controls {
+        top: 65%;
+    }
+
+}
+
+@media (max-width: 992px) {
+    .booking-submit {
+        right: -25px;
+    }
+
+    .header-content_descr {
+        font-size: 50px;
+        max-width: 568px;
+    }
+
+    .header-content_right__bg {
+        min-width: 203px;
+    }
+
+    .booking-search {
+        min-width: 425px;
+        left: 25%;
+    }
+
+    .main-card_item {
+        position: relative;
+        max-height: 290px;
+    }
+
+    .header-carousel {
+        min-height: 550px;
+    }
+
+    .main-card_img {
+        max-width: 290px;
+        max-height: 290px;
+    }
+
+    .main-card_item:nth-child(4) {
+        margin-left: 15px;
+    }
+
+    #tcb {
+        width: 85px;
+    }
+
+    .main-cards {
+        margin-bottom: 210px;
+    }
+
+    .carousel-lettuce_img {
+        left: 14%;
+        top: -100px;
+    }
+
+    .carousel-bg_1 {
+        top: 35px;
+    }
+
+    .carousel-bg_2 {
+        bottom: 120px;
+    }
+
+    .carousel-img {
+        max-height: 90%;
+        max-width: 90%;
+    }
+
+    .header-carousel_controls {
+        top: 80%;
+        right: 10px;
+    }
+
+    .main-card_border__first {
+        bottom: 340px;
+    }
+
+    .main-content_descr {
+        margin-left: 60px;
+    }
+
+    .main-content {
+        align-items: center;
+    }
+
+    .main-content_title {
+        font-size: 27px;
+    }
+
+    .main-card_descr {
+        max-width: 290px;
+        width: 100%;
+        max-height: 200px;
+    }
+
+    .card-item_button {
+        padding: 8px 17px;
+    }
+
+    .booking-content_left__bg {
+        left: -60px;
+    }
+
+    .os-card_content {
+        left: 115%;
+    }
+
+    .os-title_span::before {
+        width: 130px;
+    }
+
+    .os-card_content_3 {
+        left: 0;
+    }
+
+    .os-title_3 span::after {
+        width: 215px;
+    }
+
+    .eof-card {
+        max-width: 245px;
+    }
+
+    .eof-card_descr {
+        max-width: 235px;
+    }
+
+    .eof-card_title {
+        font-size: 18px;
+    }
+
+    .eof-card_span {
+        padding-left: 13px;
+        font-size: 17px;
+    }
+
+    .da-title {
+        font-size: 38px;
+        line-height: 47px;
+    }
+
+    .da-right_bg {
+        max-width: 320px;
+    }
+    .footer-descr, .footer-contacts_list__link a{
+        color: black;
+    }
+    .booking-content{
+        height: 465px;
+    }
+    .booking-border_first {
+        top: -12%;
+        right: -8%;
+    }
+    .booking-border_third {
+        right: -8%;
+    }
+    .booking-border_second {
+        bottom: -12%;
+    }
+    .carousel-bg_1 {
+        top: 148px;
+    }
+    .main-card_border__first {
+        top: -55px;
+    }
+}
+@media (max-width: 768px){
+    .header-content_search, .header-content_search:focus{
+        padding-left: 17px;
+        font-size: 15px;
+    }
+    .search-submit {
+        font-size: 17px;
+        max-width: 89px;
+        left: 211px;
+        padding: 10px 30px;
+        top: 20px;
+    }
+    .header-content_descr {
+        font-size: 40px;
+        max-width: 371px;
+        line-height: 48px;
+        
+    }
+    .header-content_search {
+        min-width: 315px;
+    }
+    .booking-search {
+        min-width: 368px;
+        left: 19%;
+    }
+    .booking-content_left__bg {
+        left: -102px;
+    }
+    .booking-content_right__bg {
+        right: -64px;
+    }
+    .booking-title {
+        margin-left: 115px;
+    }
+    .main-content_descr{
+        line-height: 19px;
+    }
+    #oscf, #oscs {
+        width: 100px;
+    }
+    .main-content{
+        flex-direction: column;
+    }
+    .main-content_title::before {
+        content: '';
+        width: 25px;
+        height: 96px;
+        background-color: var(--main-color);
+        display: inline-block;
+        margin-right: 15px;
+    }
+    .os-img_2 {
+        padding: 100px 140px 0 162px;
+        min-height: 610px;
+    }
+    .os-img {
+        max-width: 300px;
+    }
+    .os-card_content_3{
+        top: 75px;
+    }
+    .booking-content_right__bg{
+        right: 0;
+    }
+    .footer-title{
+        background-color: #f0f8ff70;
+        border-radius: 78px;
+        backdrop-filter: blur(3px);
+    }
+    .main-cards_container{
+        flex-direction: column;
+        
+    }
+    .main-card_item{
+        max-height: 99%;
+    }
+    .main-card_item:nth-of-type(1){
+        margin-bottom: 30px;
+    }
+    .main-card_img{
+        max-width: 99%;
+        max-height: 99%;
+    }
+    .main-card_item:nth-child(4){
+        margin-left: 0;
+    }
+    .main-cards_controls {
+        right: 35%;
+        top: 105%;
+    }
+    .main-card_border__third {
+        right: 1.7%;
+        bottom: -1.5%;
+    }
+    .main-card_border__second {
+        right: 10px;
+        bottom: 20px;
+    }
+    .os-title_span::before {
+        width: 70px;
+    }
+    .os-title_span::after {
+        width: 45px;
+    }
+    .os-title_3 span::after {
+        width: 110px;
+    }
+    .main-content_descr {
+        margin-left: 20px;
+    }
+    .booking-content {
+        height: 440px;
+    }
+    .os-img_2 {
+        padding: 100px 122px 0px 120px;
+        min-height: 610px;
+    }
+    .eof-card {
+        max-width: 530px;
+    }
+    .eof-cards_container{
+        justify-content: center;
+    }
+    .eof-card_span {
+        padding-left: 246px;
+        font-size: 27px;
+    }
+    .da-right_bg {
+        max-width: 489px;
+    }
+    .header-carousel{
+        margin-left: 0;
+    }
+    .carousel-img {
+        max-height: 100%;
+        max-width: 100%;
+    }
+    .header-carousel_controls {
+        top: 90%;
+        right: 2px;
+    }
+    .booking-content_left__bg {
+        left: -170px;
+    }
+    .booking-title {
+        margin-left: 27px;
+    }
+    .booking-submit {
+        right: 22px;
+        font-size: 16px;
+        top: 25px;
+    }
+    .booking-search {
+        min-width: 368px;
+        left: 0%;
+    }
+    .booking-select_first {
+        left: 5%;
+        z-index: 10;
+    }
+    .booking-select_second {
+        left: 45%;
+    }
+    .booking-select_third {
+        z-index: 10;
+    }
+    .os-card_content {
+        left: 105%;
+    }
+    .main-card_descr {
+        bottom: 5px;
+        height: 200px;
+        max-width: 547px;
+        width: 100%;
+        padding: 10px;
+    }
+    
+    
+@media (max-width: 576px){
+    .os-img_2{
+        padding: 0;
+    }
+    .header-main_title {
+        font-size: 100px;
+        margin-bottom:10px;
+        opacity: 0.1;
+        max-width: 260px;
+        line-height: 24px;
+        
+    }
+    .header-content_descr {
+        font-size: 22px;
+        max-width: 383px;
+        line-height: 36px;
+        
+    }
+    .header-content_left {
+        margin-bottom: 130px;
+    }
+    .header-carousel {
+        min-height: 315px;
+    }
+    .carousel-lettuce_img {
+        left: 20%;
+        top: -55px;
+        width: 200px;
+    }
+    .carousel-bg_2 {
+        width: 150px;
+        height: 100px;
+        bottom: 30%;
+    }
+    .carousel-bg_1 {
+        width: 150px;
+        height: 100px;
+        top: 30%;
+    }
+    .header-carousel_controls{
+        right: 20px;
+    }
+    .left-carousel_button {
+        margin-right: 0;
+        width: 33px;
+        height: 22.5px;
+    }
+    .right-carousel_button {
+        margin-right: 0;
+        width: 33px;
+        height: 22.5px;
+    }
+    .header-content_search, .header-content_search:focus {
+        padding-left: 10px;
+        font-size: 14px;
+        min-width: 245px;
+        height: 60px;
+    }
+    .main-card_border__first {
+        bottom: 600px;
+        left: 0;
+    }
+    .search-submit {
+        font-size: 16px;
+        max-width: 60px;
+        left: 181px;
+        padding: 7px 23px;
+        top: 10px;
+    }
+    .header-content_right__bg {
+        min-width: 140px;
+    }
+    .nav-logo {
+        font-size: 48px;
+    }
+    .header-content_search, .search-submit, .header-form{
+        z-index: 100;
+    }
+    .header-content_search{
+        background: white;
+        opacity: 1;
+    }
+    .header-content_map{
+        font-size: 30px;
+        line-height: 30px;
+        top: 42%;
+    }
+    .da-right_bg {
+        max-width: 431px;
+    }
+    .da-button img{
+        max-width: 142px;
+    }
+    .footer-email{
+        min-width: 315px;
+    }
+    .da-right_bg {
+        max-width: 315px;
+    }
+    .da-title{
+        align-items: center;
+        font-size: 26px;
+        line-height: 42px;
+        max-width: 287px;
+    }
+    .da-title::before {
+        height: 90px;
+        margin-right: 25px;
+    }
+    .da-descr{
+        margin-left: 0;
+        line-height: 24px;
+        font-size: 14px;
+    }
+    .header-content_left{
+        z-index: 50;
+    }
+    .nav-logo {
+        font-size: 36px;
+    }
+    .header-content_map span {
+        position: absolute;
+        font-family: Poppins;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 90px;
+        left: 50px;
+        top: -20px;
+    }
+    .header-content_map i{
+        top: 10px;
+    }
+    .header-content_map {
+        font-size: 16px;
+        min-width: 150px;
+        border-radius: 0px 0px 45px 0px;    
+        margin-right: 0;
+        height: 50px;
+    }
+    .main-content_title {
+        font-size: 19px;
+        align-items: center;
+    }
+    .main-card_border__second {
+        right: 4px;
+        bottom: -10px;
+    }
+    .booking-content_left__bg{
+       display: none;
+    }
+    .booking-content_right__bg{
+        display: none;
+    }
+    .booking-content{
+        padding-top: 0;
+        height: 285px;
+        padding-bottom: 100px;
+        width: 100%;
+    }
+    .booking-title{
+        margin-left: 0;
+        font-size: 24px;
+        margin-bottom: 54px;
+    }
+    .booking-select_first{
+        font-size: 14px;
+        top: -40px;
+    }
+    .booking-select_second{
+        font-size: 14px;
+        top: -40px;
+    }
+    .booking-select_third{
+        font-size: 14px;
+        top: -40px;
+    }
+    .booking-search{
+        min-width: 290px;
+    }
+    .booking-border_third{
+        display: none;
+    }
+    .booking-border_second{
+        display: none;
+    }
+    .booking-border_first{
+        left: 0;
+    }
+    .booking-search::placeholder{
+        padding-left: 0px;
+        font-size: 14px;
+    }
+    .booking-search{
+        padding-left: 10px;
+        height: 55px;
+    }
+    .booking-submit, .booking-submit:hover{
+        padding: 7px 26px;
+        top: 10px;
+    }
+    .booking-border_first{
+        top: -18%;
+    }
+    .our_service-content{
+        flex-direction: column;
+        align-items: start;
+    }
+    .main-content_descr {
+        margin-left: 0px;
+    }
+    .eof-card {
+        max-width: 290px;
+    }
+    .os-img{
+        padding: 91px 80px 90px 83px;
+    }
+    .eof-card_span{
+        padding-left: 50px;
+        font-size: 18px;
+        
+    }
+    .os-title_span::before {
+        display: none;
+    }
+    .os-card_content {
+        left: 15px;
+        top: 0px;
+        background: rgba(255, 255, 255, 0.637);
+        padding: 80px 40px;
+        width: 260px;
+        opacity: 0;
+        transition: 1s;
+    }
+    .os-card_content:hover {
+        opacity: 1;
+    }
+    .os-card_content_3 {
+        left: 16px;
+        top: 0px;
+        background: rgba(255, 255, 255, 0.637);
+        width: 263px;
+        opacity: 0;
+        transition: 1s;
+        padding: 129px 41px;
+    }
+    .os-title_3, .os-descr_3{
+        position: relative;
+        top: -70px;
+    }
+    
+    .os-card_content_3:hover {
+        opacity: 1;
+    }
+    .os-title_3 span::after {
+        display: none;
+    }
+    .os-img_3{
+        padding: 91px 80px 90px 83px;
+    }
+    .os-card_content_3 {
+        left: 16px;
+        top: 0px;
+        background: rgba(255, 255, 255, 0.637);
+        width: 263px;
+        opacity: 0;
+        transition: 1s;
+        padding: 129px 41px;
+    }
+    .os-title_2 {
+        font-size: 22px;
+    }
+    #osct{
+        width: 235px;
+        padding-top: 50px;
+    }
+    .left-cards_container {
+        margin-bottom: 300px;
+    }
+    .os-img_2{
+        min-height: 450px;
+    }
+    .our_service-cards{
+        margin-bottom: 40px;
+    }
+    .footer-title{
+        line-height: 30px;
+        font-size: 22px;
+    }
+    .footer-contacts_list{
+        flex-direction: column;
+        
+    }
+    .footer-contacts_list__link{
+        margin-bottom: 30px;
+        text-align: left;
+        backdrop-filter: blur(10px);
+        border-radius: 78px;
+    }
+    .social-links_content{
+        bottom: -165px;
+        right: 15px;
+        backdrop-filter: blur(3px);
+        border-radius: 78px;
+    }
+    .footer-descr{
+        backdrop-filter: blur(3px);
+        border-radius: 78px;
+    }
+    .sidebar-epta {
+        top: 54px;
+        left: 0;
+        min-width: 320px;
+        width: 100%;
+        align-items: center;
+        background: #ffeddecf;
+    }
+    .nav-list_link:nth-of-type(4) {
+        margin-bottom: 24px;
+    }
+    .eof-section {
+        margin-bottom: 0px;
+    }
+    .header{
+        margin-bottom: 40px;
+        
+    }
+    .main-card_descr {
+        bottom: 3px;
+        height: 200px;
+        max-width: 284px;
+        width: 100%;
+        padding: 10px;
+    }
+}
+}
